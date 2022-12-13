@@ -1,0 +1,6 @@
+plugins/
+data/
+*.db
+*.bkp
+*.log
+log/
